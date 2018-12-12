@@ -1,1 +1,1 @@
-print "pass"
+print "pass 1"
